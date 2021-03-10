@@ -35,7 +35,7 @@ footer{
 }
 
 nav{
-    position: absolute;
+    position: static;
     top: 100px;
     left: 20px;
 }
